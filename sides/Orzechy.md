@@ -1,0 +1,2 @@
+dodaj ochechy
+zmiksuj
